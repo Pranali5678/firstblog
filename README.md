@@ -1,2 +1,0 @@
-# firstblog
-First Blog App
